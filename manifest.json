@@ -1,0 +1,17 @@
+{
+  "name": "Exxen POC Anti-Adblock Bypasser",
+  "version": "1.0",
+  "description": "Simple Exxen Anti-Adblock System bypasser by inspecting Exxen's wasset CDN.",
+  "permissions": ["background", "tabs", "webRequest", "webRequestBlocking", "*://*.exxen.com/"  ],    
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "icons": {
+    "16": "/images/icon.png",
+    "32": "/images/icon.png",
+    "48": "/images/icon.png",
+    "128": "/images/icon.png"
+  },
+  "manifest_version": 2
+}
