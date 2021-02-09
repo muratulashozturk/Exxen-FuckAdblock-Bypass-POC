@@ -1,2 +1,15 @@
-# Exxen-FuckAdblock-Bypass-POC
-Turkey's new digital platform Exxen's Anti Adblock Bypasser. This is a Proof-Of-Concept and for educational purposes only!
+# Exxen FuckAdBlock(AntiAdblock) Bypasser POC
+I will attach the Radiant Media Player FuckAdblock structure below.
+![RMP Structure](https://i.ibb.co/V9jWHp2/RMPStructure.png)
+
+
+
+
+
+
+
+
+
+
+
+for educational purposes only!
